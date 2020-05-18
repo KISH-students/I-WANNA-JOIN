@@ -1,4 +1,6 @@
-# I-WANT-JOIN
+# I WANNA JOIN
+[![HitCount](http://hits.dwyl.com/KISH-students/I-WANT-JOIN.svg)](http://hits.dwyl.com/KISH-students/I-WANT-JOIN)
+
 KISH학생이라면 누구나 자유롭게 참여할 수 있어요.
 
 # KISH-students에 참여하는 방법
